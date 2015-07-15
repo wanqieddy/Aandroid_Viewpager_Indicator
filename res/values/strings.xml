@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">android-viewpager-indicator</string>
+    <string name="tab1_text">Chats</string>
+    <string name="tab2_text">Contacts</string>
+    <string name="tab3_text">Discover</string>
+    <string name="tab4_text">Me</string>
+    
+    <string name="activity_fade_tab">FadeTabIndicatorDemo</string>
+    <string name="activity_line_tab">LineTabIndicatorDemo</string>
+
+</resources>
